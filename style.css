@@ -1,0 +1,38 @@
+body{
+    background-color: 	rgb(-11,88,79) ; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    overflow-x: hidden;
+}
+.clock{
+    font-size: 100px;
+    width: 576px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    display: flex;
+    background-color: black;
+    height: 183px;
+}
+#pm{
+   
+margin-left: 10px;
+} 
+p{
+    font-size: 35px;
+    position: relative;
+    left: -528px;
+    top: 99px;
+    
+    
+}
+.time{
+    display: flex;
+    color: white;
+    position: relative;
+    left: 1042px;
+    top: 111px;
+}
+
+
